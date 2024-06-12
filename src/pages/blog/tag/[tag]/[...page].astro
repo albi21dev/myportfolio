@@ -16,7 +16,7 @@ export async function getStaticPaths({ paginate }) {
     })
     return paginate(filtred_posts, {
       params: { tag },
-      pageSize: 10
+      pageSize: 10,
     })
   })
 }

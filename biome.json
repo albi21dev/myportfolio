@@ -31,8 +31,7 @@
       "lineWidth": 120,
       "semicolons": "asNeeded",
       "quoteStyle": "single",
-      "jsxQuoteStyle": "single",
-      "trailingComma": "none"
+      "jsxQuoteStyle": "single"
     }
   }
 }
