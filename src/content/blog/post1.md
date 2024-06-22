@@ -1,9 +1,9 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/myportfolio/post_img.webp"
-tags: ["tokio"]
+title: "My personal brand and website"
+description: "From Visual Branding and Copywriting to the Development through Astro, a modern framework that emphasizes performance by delivering as little JavaScript as possible."
+pubDate: "June 25 2024"
+heroImage: "/myportfolio/image.png"
+tags: ["astro"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
