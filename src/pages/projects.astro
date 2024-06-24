@@ -1,6 +1,37 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
 import HorizontalCard from '../components/HorizontalCard.astro'
+import { getCollection } from 'astro:content'
+import createSlug from '../lib/createSlug'
+
+const projects = await getCollection('projects')
+
+---
+
+<BaseLayout title="Projects" sideBarActiveItemID="projects">
+  <div>
+    <div class="text-3xl w-full font-bold mb-5">My Projects</div>
+  </div>
+
+  {
+    projects.map((project) => (
+      <>
+        <HorizontalCard
+          title={project.data.title}
+          img={project.data.heroImage}
+          desc={project.data.description}
+          url={"/projects/" + createSlug(project.data.title, project.slug)}
+          target="_self"
+          badge={project.data.badge}
+        />
+        <div class="divider my-0" />
+      </>
+    ))
+  }
+</BaseLayout>
+<!-- ---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import HorizontalCard from '../components/HorizontalCard.astro'
 ---
 
 <BaseLayout title = "Projects" sideBarActiveItemID="projects">
@@ -12,7 +43,7 @@ import HorizontalCard from '../components/HorizontalCard.astro'
     title="My personal brand and website"
     img="/myportfolio/image.png"
     desc="From Visual Branding and Copywriting to the Development through Astro, a modern framework that emphasizes performance by delivering as little JavaScript as possible."
-    url="#"
+    url="/myportfolio/src/content/projects/my-personal-brand-and-website.md"
     badge="ASTRO"
   />
   <div class="divider my-0"></div>
@@ -20,14 +51,14 @@ import HorizontalCard from '../components/HorizontalCard.astro'
     title="Maestro´s website"
     img="/myportfolio/project_2.png"
     desc="A minimalistic website for a world-class composer and pianist. Optimized for reaching the audience through deep market analysis and SEO with Semrush. The use of WordPress was intended to give him independence once the project was completed."
-    url="#"
+    url="/myportfolio/src/content/projects/project2.md"
     badge="WORDPRESS"
   />
   <HorizontalCard
     title="Rebranding and website"
     img="/myportfolio/project_3.png"
     desc="Restyle and harmonize the brand for a Non-Profit Organization by building the website on WordPress to ensure independence for updates."
-    url="#"
+    url="/myportfolio/src/content/projects/project3.md"
     badge="WORDPRESS"
   />
   <div class="divider my-0"></div>
@@ -35,6 +66,6 @@ import HorizontalCard from '../components/HorizontalCard.astro'
     title="Rebranding"
     img="/myportfolio/project_4.png"
     desc="Refreshed a logo for a small business, maintaining the original childish design at the client's specific request."
-    url="#"
+    url="/myportfolio/src/content/projects/project4.md"
   />
-</BaseLayout>
+</BaseLayout> -->

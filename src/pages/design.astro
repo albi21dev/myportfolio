@@ -1,0 +1,105 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import HorizontalCard from '../components/HorizontalCard.astro'
+import PassiveCard from '../components/PassiveCard.astro'
+---
+
+<BaseLayout title="Design" sideBarActiveItemID="design">
+  <div class="mb-5">
+    <img src="/myportfolio/public/service_01.png" alt="Design" class="w-full mb-6" />
+    <div class="text-3xl w-full font-bold">Design</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+    Creating visually engaging graphics, logos, and websites to elevate your brand's identity, ensuring a cohesive and professional aesthetic presence.
+  </div>
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">Logos and Visual Identity</div>
+  </div>
+  
+    <PassiveCard
+      title="Discovery"
+      img="/myportfolio/service_design_1.webp"
+      desc="Every great design begins with an even better story. We'll chat, sip coffee, and dig deep into your brand's soul. It’s like therapy, but with more doodles and less crying."
+      url="#"
+    />
+    <div class="divider my-0"></div>
+    <PassiveCard
+      title="Design"
+      img="/myportfolio/service_design_2.webp"
+      desc="Creativity meets logos, color palettes, and typography. I play with colors and fonts like a kid in a candy store until your brand's personality shines through."
+      url="#"
+    />
+    <div class="divider my-0"></div>
+    <PassiveCard
+      title="Delivery"
+      img="/myportfolio/service_design_3.webp"
+      desc="Your vision, beautifully executed and ready for the world. Think of it as a debutante ball for your logo—dressed to the nines and ready to impress."
+      url="#"
+    />
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">UI/UX Design</div>
+  </div>
+
+  <PassiveCard
+    title="Research"
+    img="/myportfolio/service_design_4.webp"
+    desc="Empathy is the first step in understanding the user. I gather insights, stalk competitors (ethically, of course), and discover what makes your audience tick."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Reflect"
+    img="/myportfolio/service_design_5.webp"
+    desc="Effective copywriting bridges design and action. Crafting content is like matchmaking—I always find the perfect contents to woo your audience, with a little help from our AI pals ChatGPT and Midjourney."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Review"
+    img="/myportfolio/service_design_6.webp"
+    desc="Assess and resolve issues through targeted testing. It’s the quality control party."
+    url="#"
+  />
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">Webdesign</div>
+  </div>
+
+  <PassiveCard
+    title="Define"
+    img="/myportfolio/service_design_7.webp"
+    desc="Clearly outline project goals and requirements. I set the stage with clear objectives and user personas—think of it as casting the perfect actors for your web drama."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Develop"
+    img="/myportfolio/service_design_8.webp"
+    desc="Bringing wireframes to life with pixel-perfect precision. I build pages that glue users to their screens, and craft content that makes each page a star."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Deploy"
+    img="/myportfolio/service_design_9.webp"
+    desc="Launching your website to the world. Whether the client decides to be independent or leave the keys with me, I ensure they are ready for it!"
+    />
+    <div class="pb-1 mt-5 text-center">
+      <div class="text-3xl font-bold py-5">Want to know more?</div>
+        <text class="text-base px-2">
+          Have a look to my recent works or let's have a chat!
+        </text>
+        <div class="mt-5 justify-center ">
+          <a class="btn" href="/myportfolio/projects/"" target="_self"> My works</a>
+          <a href="https://calendly.com/albi21/30min" target="_self" class="btn btn-outline ml-5">
+            Schedule a call
+          </a>
+        </div>
+      </div>
+     
+    </div>
+
+</BaseLayout>

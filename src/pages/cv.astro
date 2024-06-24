@@ -5,11 +5,11 @@ import TimeLineElement from '../components/cv/TimeLine.astro'
 
 <BaseLayout title="Resume" sideBarActiveItemID="cv">
   <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Profile</div>
+    <div class="text-3xl w-full font-bold">This is me!</div>
   </div>
 
   <div class="mb-10 text-justify">
-    I'm an art director and marketing specialist with a knack for leading teams and a never-ending curiosity for learning new things. My love for photography and video production not only fuels my creativity but also adds that extra sparkle to my work, making everything I touch just a little more awesome.
+    I'm an art director and marketing specialist based in Vienna with a knack for leading teams and a never-ending curiosity for learning new things. My love for photography and video production not only fuels my creativity but also adds that extra sparkle to my work, making everything I touch just a little more awesome.
   </div>
 
   <div class="mb-5">
@@ -18,39 +18,40 @@ import TimeLineElement from '../components/cv/TimeLine.astro'
 
   <div class="time-line-container mb-10">
     <TimeLineElement
+      title="Art Director & Webdesigner"
+      subtitle="From 05.2024 to now as a Freelancer"
+    >
+      Visual Branding and Visual Identity<br>
+      Graphic Design, Content Creation, and Social Media Management<br>
+      Web Design and Local SEO<br>
+      Photography and Video Production (Concept, Shooting, and Editing)<br>
+      Market Analysis<br>
+      Ad Campaigns on Google, Facebook and Instagram<br>
+      <br>
+
+    </TimeLineElement>
+
+    <TimeLineElement
       title="Head of marketing, UI/UX designer & Art director"
       subtitle="From 11.2020 to 09.2023 at Dolpheen IT Solutions GmbH, Vienna, Austria (Consultancy Agency)"
     >
-    <ul>
-      <li> 
-        Successfully executed various campaigns on multiple platforms, with a monthly budget of €2,000.
-        Led a zero-budget video campaign, resulting in over a 300% increase in our LinkedIn followers per month compared to the previous year.
-        Optimized LinkedIn, Kununu, Xing, Facebook, and Instagram for employer branding and developed an educational program to attract talent.
-        Worked on SEO producing content based on monthly search volume and developed a framework for employee engagement through social media.
-        <br>
-      </li>
-      <li> 
-        Mastered Adobe XD and Figma designing the UI/UX of several projects, including websites and apps.
-        Led company rebranding efforts, including market analysis, logo animation using After Effect, and designed promotional items using Illustrator.
-        Managed an internal newsletter and photoshoots for colleagues, handling the editing process using Photoshop and Lightroom.
-        Responsible for capturing memorable moments during events and enhancing visual branding, shooting and editing videos using Premiere.
-        <br>
-      </li>
-      <li> 
-        Defined project goals, roles, and timeline, moderated weekly meetings and established a Jira environment to track results.
-        Automated the process of updating skills database through UIPath for the business development management.
-        Led productive brainstorming meetings to generate new initiatives, leveraging the strengths of each team member.
-        Created an elevator pitch and business case database for the sales team.
-        <br>
-      </li>
-    </ul>
-
+      UI/UX Design for Websites and Apps<br>
+      Corporate Rebranding, Market Analysis, and Logo Animation<br>
+      Management of Internal Newsletters, Photoshoots, and Photo Editing<br>
+      Content Creation at Team Events<br>
+      Video Campaigns, +300% LinkedIn Followers<br>
+      Weekly Meetings with Project Colleagues, Results Tracking, Led Brainstorming Sessions<br>
+      Created Elevator Pitch, Competency Database, Educational Program, and Business Case Database<br>
+      <br>
     </TimeLineElement>
     <TimeLineElement
       title="Head of purchasing & chief design engineer"
       subtitle="From 07.2019 to 07.2020 at Zetapack Srl, Cesena, Italy (Production of machines for packaging)"
     >
-    Negotiations with suppliers, 40% yearly expenditure savings, marketing campaigns and 3D models design using Autodesk Inventor and AutoCad.
+        3D Modeling<br>
+        Negotiations with 40% Cost Savings<br>
+        Marketing Campaigns<br>
+        <br>
     </TimeLineElement>
     <TimeLineElement
       title="Salesman & Mechanic"
@@ -58,6 +59,54 @@ import TimeLineElement from '../components/cv/TimeLine.astro'
     >
 
     </TimeLineElement>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-7">
+    <div>
+      <div class="text-3xl font-bold mb-5">Marketing</div>
+      <ul class="list-disc mx-6">
+        <li>Market Research</li>
+        <li>Copywriting</li>
+        <li>Technical SEO</li>
+        <li>Keyword Research</li>
+        <li>Photography</li>
+        <li>Video Editing</li>
+        <li>Semrush</li>
+        <li>Google Ads</li>
+        <li>LinkedIn Campaign</li>
+        <li>Google Analytics</li>
+      </ul>
+    </div>
+    <div>
+      <div class="text-3xl font-bold mb-5">Design</div>
+      <ul class="list-disc mx-6">
+        <li>Branding</li>
+        <li>Typography</li>
+        <li>Designing for Print</li>
+        <li>UX/UI Design</li>
+        <li>HTML/CSS</li>
+        <li>Adobe Suite</li>
+        <li>Figma</li>
+        <li>Wordpress</li>
+        <li>Wix</li>
+        <li>Astro</li>
+      </ul>
+    </div>
+    <div>
+      <div class="text-3xl font-bold mb-5">Management</div>
+      <ul class="list-disc mx-6">
+        <li>Planning</li>
+        <li>Budgeting</li>
+        <li>Monitoring</li>
+        <li>Documentation</li>
+        <li>Hosting a meeting</li>
+        <li>Kanban</li>
+        <li>Agile</li>
+        <li>Waterfall</li>
+        <li>Jira</li>
+        <li>UIPath Foundation</li>
+      </ul>
+    </div>
   </div>
 
   <div class="mb-5">
@@ -110,47 +159,19 @@ import TimeLineElement from '../components/cv/TimeLine.astro'
     </li>
   </ul>
 
-  <div class="mb-5">
-    <div class="text-3xl w-full font-bold">Skills</div>
+  <div class="pb-1 mt-5 text-center">
+    <div class="text-3xl font-bold py-5">Are you a recruiter?</div>
+      <text class="text-base px-2">
+        Download my resume or let's connect!
+      </text>
+      <div class="mt-5 justify-center ">
+        <a class="btn" href="/myportfolio/projects/resume_alberto_venturi_240621.pdf" download target="_self"> Download</a>
+        <a href="https://www.linkedin.com/in/albertovmsc/" target="_blank" class="btn btn-outline ml-5">
+          Let's connect!
+        </a>
+      </div>
+    </div>
+   
   </div>
-
-  <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <p>Design</p>
-    <li>Branding</li>
-    <li>Typography</li>
-    <li>Designing for Print</li>
-    <li>UX/UI Design</li>
-    <li>HTML/CSS</li>
-    <li>Adobe Suite</li>
-    <li>Figma</li>
-    <li>Wordpress</li>
-    <li>Wix</li>
-    <li>Astro</li>
-  </ul>
-  <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <p>Marketing</p>
-    <li>Market Research</li>
-    <li>Copywriting</li>
-    <li>Technical SEO</li>
-    <li>Keyword Research</li>
-    <li>Photography</li>
-    <li>Video Editing</li>
-    <li>Semrush</li>
-    <li>Google Ads</li>
-    <li>LinkedIn Campaign</li>
-    <li>Google Analytics</li>
-  </ul>
-  <ul class="list-disc md:columns-5 columns-2 mx-6">
-    <p>Management</p>
-    <li>Planning</li>
-    <li>Budgeting</li>
-    <li>Monitoring</li>
-    <li>Documentation</li>
-    <li>Hosting a meeting</li>
-    <li>Kanban</li>
-    <li>Agile</li>
-    <li>Waterfall</li>
-    <li>Jira</li>
-    <li>UIPath Foundation</li>
-  </ul>
+  
 </BaseLayout>

@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import PassiveCard from '../components/PassiveCard.astro'
+---
+
+<BaseLayout title="Photo & Video" sideBarActiveItemID="photo&video">
+  <div class="mb-5">
+    <img src="/myportfolio/public/service_02.png" alt="Photo & Video" class="w-full mb-6 rounded-lg" />
+    <div class="text-3xl w-full font-bold">Photo & Video</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+    Creating visually engaging graphics, logos, and websites to elevate your brand's identity, ensuring a cohesive and professional aesthetic presence.
+  </div>
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">Photo Book</div>
+  </div>
+
+  <PassiveCard
+    title="Setting-up"
+    img="/myportfolio/service_video_1.webp"
+    desc="We'll chat about your vision over a virtual coffee. Then, it's all about picking the perfect location and outfits. Think of it as planning a mini fashion show, but with less runway and more fun."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Shooting"
+    img="/myportfolio/service_video_2.webp"
+    desc="Say cheese! We'll capture your best angles, poses, and expressions in 1 hour session. It's your time to shine brighter like a diamond!"
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Sharing"
+    img="/myportfolio/service_video_3.webp"
+    desc="After a little magic in the editing room, you'll receive 15 high-resolution images. It's like getting the keys to your own personal art gallery."
+    url="#"
+  />
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">Photo Book + 3 Shorts</div>
+  </div>
+
+  <PassiveCard
+    title="Preparation"
+    img="/myportfolio/service_video_4.webp"
+    desc="We’ll start with a vision session—think of it as a creative brainstorming, but with more sparkles. We'll plan locations and outfits to make sure everything is picture-perfect."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Photography & Filming"
+    img="/myportfolio/service_video_5.webp"
+    desc="Lights, camera, action! We'll capture both stunning photos and dynamic video clips. With my top-notch direction, you'll feel like a movie star and a supermodel all at once."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Post-Production"
+    img="/myportfolio/service_video_6.webp"
+    desc="Editing is where the real magic happens. I'll turn those raw captures into polished gems, delivering 15 high-res photos and 3 short videos that are social-media ready."
+    url="#"
+  />
+
+  <div class="mb-5 mt-5">
+    <div class="text-3xl w-full font-bold">Video Production</div>
+  </div>
+
+  <PassiveCard
+    title="Concept"
+    img="/myportfolio/service_video_7.webp"
+    desc="We'll brainstorm and storyboard your video masterpiece. From scripts to locations, we plan it all. Imagine crafting the next viral sensation, but with less drama and more creativity."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Creation"
+    img="/myportfolio/service_video_8.webp"
+    desc="Action! We'll film it capturing every angle and scene with precision. It's like being on a blockbuster movie set, but way more personalized."
+    url="#"
+  />
+  <div class="divider my-0"></div>
+  <PassiveCard
+    title="Cut and sew"
+    img="/myportfolio/service_video_9.webp"
+    desc="Time to edit! I'll splice, dice, and add all the cool effects, music, and transitions. You'll get a final video that's ready to dazzle your audience and make Spielberg jealous."
+    url="#"
+  />
+
+  <div class="pb-1 mt-5 text-center">
+    <div class="text-3xl font-bold py-5">Want to know more?</div>
+    <text class="text-base px-2">
+      Have a look to my recent works or let's have a chat!
+    </text>
+    <div class="mt-5 flex justify-center">
+      <a class="btn" href="/myportfolio/projects/" target="_self"> My works</a>
+      <a href="https://calendly.com/albi21/30min" target="_self" class="btn btn-outline ml-5">
+        Schedule a call
+      </a>
+    </div>
+  </div>
+</BaseLayout>

@@ -165,6 +165,54 @@ declare module 'astro:content' {
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
 };
+"project": {
+};
+"projects": {
+"maestro-s-website.md": {
+	id: "maestro-s-website.md";
+  slug: "maestro-s-website";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
+"my-personal-brand-and-website.md": {
+	id: "my-personal-brand-and-website.md";
+  slug: "my-personal-brand-and-website";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
+"rebranding-non-profit.md": {
+	id: "rebranding-non-profit.md";
+  slug: "rebranding-non-profit";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
+};
+"services": {
+"design.md": {
+	id: "design.md";
+  slug: "design";
+  body: string;
+  collection: "services";
+  data: any
+} & { render(): Render[".md"] };
+"marketing.md": {
+	id: "marketing.md";
+  slug: "marketing";
+  body: string;
+  collection: "services";
+  data: any
+} & { render(): Render[".md"] };
+"photo&video.md": {
+	id: "photo&video.md";
+  slug: "photovideo";
+  body: string;
+  collection: "services";
+  data: any
+} & { render(): Render[".md"] };
+};
 "store": {
 "item1.md": {
 	id: "item1.md";
