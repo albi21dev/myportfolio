@@ -1,3 +1,28 @@
 .time-line-container>div:last-child .education__time>.education__line {
     display: none;
 }
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url('/public/fonts/albi21thep.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .custom-font {
+    font-family: 'CustomFont', sans-serif;
+    letter-spacing: -8px;
+  }
+
+  /* Highlight colors */
+.highlight-21 {
+    color: #E81F64;
+    margin-right: -6px;
+    margin-left: -6px;
+  }
+  
+  .highlight-art {
+    color: #FEC111;
+    margin-right: -6px;
+    margin-left: -6px;
+  }

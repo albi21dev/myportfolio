@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro'
 import dayjs from 'dayjs'
 import localizedFormat from 'dayjs/plugin/localizedFormat'
 
+
 export interface Props extends ProjectSchema {}
 
 const { title, description, pubDate, updatedDate, heroImage, badge, tags = [] } = Astro.props
