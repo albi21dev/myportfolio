@@ -23,7 +23,7 @@ The color palette was a thoughtful blend of **Amber yellow** for innovation and 
 
 My motto? **Audience first, mobile second, and trends are just fancy fads**. I gathered content using ChatGPT and MidJourney, ensuring everything resonated with my vision and user expectations.
 
-![Image](/public/placeholder.jpg)
+![Image](/myportfolio/placeholder.jpg)
 
 ### Development Using Visual Studio Code and GitHub
 

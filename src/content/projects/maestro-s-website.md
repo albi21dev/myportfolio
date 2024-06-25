@@ -17,7 +17,7 @@ The color scheme of white, black, and French beige embodies independence and adv
 ## UI/UX Strategy
 Minimalism was the guiding principle in crafting the user interface and experience. Focused on speed and functionality, the design prioritizes ease of navigation and clarity. Utilizing the Twenty Twenty-Four theme on WordPress, the layout is clean and intuitive, providing a seamless browsing experience.
 
-![Image](/public/placeholder.jpg)
+![Image](/myportfolio/maestro-website-mockup.webp)
 
 ## Content Development
 Content integration was streamlined using placeholder images from MidJourney, awaiting a future photoshoot to personalize visuals further. Client-provided images were meticulously refined using Photoshop to maintain a cohesive aesthetic across the site.

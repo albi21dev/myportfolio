@@ -17,7 +17,7 @@ The color palette was thoughtfully selected to reflect their green goals, starti
 
 I chose the WordPress theme **Neve** for its clean and modern design. It did present some bugs, but nothing I couldn't handle. This experience will be useful for future projects. My mantra is **audience first, mobile second**. In our initial meeting, I always emphasize the importance of understanding the target audience. For [scartiamo.com](https://scartiamo.com/), I created a site-map designed to attract volunteers and business angels. While the current stock photos don't fully capture the brand's essence, I plan to return to Italy to shoot the right media.
 
-![Image](/public/placeholder.jpg)
+![Image](/myportfolio/placeholder.jpg)
 
 ## SEO and Future Collaborations
 
