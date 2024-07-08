@@ -1,5 +1,5 @@
 ---
-title: "Rebranding for a Non-Profit Organization and SEO"
+title: "Rebranding for a Non-Profit Organization"
 description: "Restyle and harmonize the brand for a Non-Profit Organization by building the website on WordPress to ensure independence for updates."
 pubDate: "May 12 2024"
 heroImage: "/myportfolio/rebranding-non-profit.jpg"
