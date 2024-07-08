@@ -1,10 +1,10 @@
 ---
-title: "Rebranding for a Non-Profit Organization"
+title: "Rebranding for a Non-Profit Organization and SEO"
 description: "Restyle and harmonize the brand for a Non-Profit Organization by building the website on WordPress to ensure independence for updates."
 pubDate: "May 12 2024"
 heroImage: "/myportfolio/rebranding-non-profit.jpg"
 badge: "Wordpress"
-tags: ["illustrator", "google keywords planner"]
+tags: ["illustrator", "google keywords planner", "SEO"]
 ---
 
 It all started during one of their events, where I witnessed a magnificent live pattern being drawn on their stairs by the kids. Inspired, I grabbed my camera and vectorized the artwork. 
@@ -22,3 +22,5 @@ I chose the WordPress theme **Neve** for its clean and modern design. It did pre
 ## SEO and Future Collaborations
 
 SEO in the non-profit field is crucial. Tools like Answer The Public or Google's Keyword Planner are perfect for refining texts and metadata. WordPress plugins also come in handy for SEO optimization. Moving forward, I will collaborate with Scartiamo.com to build a consistent and sustainable social media strategy. Nothing fancy, but effective.
+
+![Image](/myportfolio/scartiamo_performance.webp)

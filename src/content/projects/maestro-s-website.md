@@ -1,13 +1,13 @@
 ---
 title: "Maestro's Website"
-description: "Crafted to groove with the essence of music, Maestro's Website for Giordano Denisi harmonizes elegance with modern flair. WordPress framework blended user-friendly navigation with minimalistic visual aesthetics."
+description: "Crafted to groove with the essence of music, Maestro's Website for Giordano De Nisi harmonizes elegance with modern flair. WordPress framework blended user-friendly navigation with minimalistic visual aesthetics."
 pubDate: "June 25 2024"
 heroImage: "/myportfolio/maestro-website-hero.jpg"
 badge: ["Wordpress"]
 tags: ["figma", "illustrator", "midjourney", "photoshop", "semrush", "google search console", "google analytics"]
 ---
 
-The concept behind [giordanodenisi.com](https://giordanodenisi.com/) originates from a **harmonious blend of elegance and modernity**, driven by Giordano De Nisi's engineering mindset where precision meets creativity. The goal was to capture his artistic expression through a clear and effective visual identity. Choosing a minimalist yet powerful approach, the design resonates with the digital world, leveraging WordPress for flexibility and speed.
+The concept behind [giordanodenisi.com](https://giordanodenisi.com/) originates from a **harmonious blend of elegance and modernity**, driven by Giordano De Nisi's mindset where precision meets creativity. The goal was to capture his artistic expression through a clear and effective visual identity. Choosing a minimalist yet powerful approach, the design resonates with the digital world, leveraging WordPress for flexibility and speed.
 
 ## Logo Design and Color Palette
 The logo, originally conceived with intricate details, evolved into a minimalist form to align with the client's preference for simplicity. The 'O' in Giordano is accented, symbolizing movement and echoing musical notes on a staff.
