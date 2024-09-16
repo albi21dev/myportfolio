@@ -1,6 +1,6 @@
 ---
-title: "Transforming Marketing and Product Development for a Tech Company"  
-description: "Redefined the product lifecycle, branding, and marketing strategies to enhance talent attraction and drive project growth."  
+title: "Transforming a Brand for a Tech Company"  
+description: "Redefined the branding and marketing strategies to enhance talent attraction and drive project growth."  
 pubDate: "September 16, 2024"  
 heroImage: "/myportfolio/dolpheen_cover.webp"  
 badge: "Allrounder"  
