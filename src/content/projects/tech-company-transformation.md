@@ -25,7 +25,7 @@ Working on a **mobile device farm**'s UI/UX from scratch pushed me to take on th
 
 ## Social Media Strategy
 
-As the primary platform, LinkedIn became the focus of my social media strategy. By developing a consistent content plan, I helped grow our network threefold over two months. This success doubled the number of candidates in the hiring pipeline and secured six new projects. 
+As the primary platform, LinkedIn became the focus of my social media strategy. By developing a consistent content plan, I helped grow our network threefold over a two months video campaign. This success doubled the number of candidates in the hiring pipeline and secured six new projects. 
 
 ## Management and Team Support
 
