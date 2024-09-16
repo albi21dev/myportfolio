@@ -19,7 +19,7 @@ To elevate the employer branding strategy, I developed a new visual identity, ce
 
 ## UI/UX Development
 
-Working on a mobile device farm's UI/UX from scratch pushed me to take on the role of a product owner, despite not being officially recognized as one. I conducted extensive research, built frameworks, and delivered designs to the dev team. Initially, progress was slow, but the launch of **Website 2.0** brought tangible results. A new color palette and brand guidelines made the website more distinct, especially on social media, while modernizing the agency's image as young and innovative.
+Working on a **mobile device farm**'s UI/UX from scratch pushed me to take on the role of a product owner, despite not being officially recognized as one. I conducted extensive research, built frameworks, and delivered designs to the dev team. Unfortunately there was no next level and the project failed. The launch of **Website 2.0** brought more results. A new color palette and brand guidelines made the website more distinct, especially on social media, while modernizing the agency's image as young and innovative.
 
 ![Image](/myportfolio/dolpheen_selection.webp)
 
