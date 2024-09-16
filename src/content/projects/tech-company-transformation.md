@@ -4,7 +4,7 @@ description: "Redefined the branding and marketing strategies to enhance talent 
 pubDate: "September 16, 2024"  
 heroImage: "/myportfolio/dolpheen_cover.webp"  
 badge: "Allrounder"  
-tags: ["SEMrush", "Figma", "Jira", "LinkedIn", "Marketing"]  
+tags: ["SEMrush", "Figma", "Illustrator", "Lightroom", "Premiere", "After Effect", "Jira", "LinkedIn", "Google Ads", "Marketing"]  
 ---
 
 My experience at this company significantly shaped my understanding of the product lifecycle and DevOps, as well as my ability to integrate modern marketing strategies.
