@@ -189,6 +189,13 @@ declare module 'astro:content' {
   collection: "projects";
   data: any
 } & { render(): Render[".md"] };
+"tech-company-transformation.md": {
+	id: "tech-company-transformation.md";
+  slug: "tech-company-transformation";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
 };
 "services": {
 "design.md": {
