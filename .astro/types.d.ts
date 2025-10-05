@@ -168,6 +168,20 @@ declare module 'astro:content' {
 "project": {
 };
 "projects": {
+"a-new-horizon-for-no-profit.md": {
+	id: "a-new-horizon-for-no-profit.md";
+  slug: "a-new-horizon-for-no-profit";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
+"a-play-to-brake-bad.md": {
+	id: "a-play-to-brake-bad.md";
+  slug: "a-play-to-brake-bad";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
 "maestro-s-website.md": {
 	id: "maestro-s-website.md";
   slug: "maestro-s-website";
@@ -178,6 +192,13 @@ declare module 'astro:content' {
 "my-personal-brand-and-website.md": {
 	id: "my-personal-brand-and-website.md";
   slug: "my-personal-brand-and-website";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
+"ottica-s-social-presence.md": {
+	id: "ottica-s-social-presence.md";
+  slug: "ottica-s-social-presence";
   body: string;
   collection: "projects";
   data: any
