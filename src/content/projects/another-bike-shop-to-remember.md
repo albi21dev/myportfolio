@@ -7,16 +7,17 @@ badge: ["Brand Identity"]
 tags: ["Illustrator", "Canca", "graphic design", "social media", "brand strategy"]
 ---
 
-Gallo Garage Bike isn’t your average bike shop. Bikes roll in broken, roll out perfect. Simple as that. No fairy dust, just skill—and zero patience for idiots.
+Gallo Garage Bike needed an identity. Bikes roll in broken, roll out perfect. Simple as that. No fairy dust, just skill—and zero patience for idiots.
  
-Colors? Loud, proud, like a chain under pressure. Pattern? Gears and links hinting, subtly, that we actually work hard while you’re standing around.
-Typography? Clean, sharp, aggressive—basically saying, “we know what we’re doing, don’t test us.” Every piece—from logo to font—shouts the same message: we fix bikes, we do it damn well, and if you’re annoying… maybe ride somewhere else.
 
 ## The logo
 A tiny rebel. Lines that move like they’ve got attitude, screaming energy and personality. The wordmark? The grown-up in the room: solid, geometric, “don’t worry, we’ve got this.” Chaos meets order, and somehow it works.
 
 ## The colors 
 Loud, modern, like a chain under pressure. Pattern? Gears and links hinting, subtly, that we actually work hard while you’re standing around.
+
+## Typography
+Clean, sharp, aggressive—basically saying, “we know what we’re doing, don’t test us.” Every piece—from logo to font—shouts the same message: we fix bikes, we do it damn well, and if you’re annoying… maybe ride somewhere else.
 
 ![Image](/myportfolio/gallo_brand.webp)
 
