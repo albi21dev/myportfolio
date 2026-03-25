@@ -182,6 +182,13 @@ declare module 'astro:content' {
   collection: "projects";
   data: any
 } & { render(): Render[".md"] };
+"another-bike-shop-to-remember.md": {
+	id: "another-bike-shop-to-remember.md";
+  slug: "another-bike-shop-to-remember";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
 "maestro-s-website.md": {
 	id: "maestro-s-website.md";
   slug: "maestro-s-website";

@@ -18,5 +18,5 @@ Photographers, bless them, face the heroic challenge of low light and cramped co
 The video, edited in DaVinci Resolve, crafted in both horizontal and vertical formats, serves as an archive of Liuteria Diego Suzzi’s live nights, helping showcase the venue to potential new sponsors.
 
 
-[Watch the video](/myportfolio/liuteria_video.mov)
+[Watch the video](/myportfolio/liuteria_video.mp4)
 
