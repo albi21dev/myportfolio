@@ -189,6 +189,13 @@ declare module 'astro:content' {
   collection: "projects";
   data: any
 } & { render(): Render[".md"] };
+"music-to-see-in-cesena.md": {
+	id: "music-to-see-in-cesena.md";
+  slug: "music-to-see-in-cesena";
+  body: string;
+  collection: "projects";
+  data: any
+} & { render(): Render[".md"] };
 "my-personal-brand-and-website.md": {
 	id: "my-personal-brand-and-website.md";
   slug: "my-personal-brand-and-website";
