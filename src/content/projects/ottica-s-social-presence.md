@@ -9,7 +9,7 @@ tags: ["lightromm", "photoshop", "semrush", "shopify", "daVinci"]
 
 From a cold call sparked by simple e-commerce prospecting to a genuine, equal-footed collaboration. While my initial plan was to boost online sales, the real goal on the table became something more human: bringing more people into the store, all with a minimal budget to test my skills.
 
-## Trusted partnership in 6 month
+## Trusted partnership in 1 year
 Through my plan, [Ottica Punto di vista](https://www.instagram.com/otticapuntodivista.cesena/) doubled its followers in six months. The trust I earned grew to the point where the owner began asking for advice on his e-commerce and commissioning me for tailored tweaks and on-the-spot consulting.
 
 ![Image](/myportfolio/ottica_content.webp)
