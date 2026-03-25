@@ -1,7 +1,7 @@
 ---
 title: "Music to see in Cesena"
 description: "Photographers navigate low light and tight spaces at Liuteria Diego Suzzi, capturing intimate, chaotic music nights where every shadowed, tilted, or blurry frame tells the venue’s vibrant, unpredictable story."
-pubDate: "November 31 2025"
+pubDate: "January 31 2026"
 heroImage: "/myportfolio/liuteria_cover.webp"
 badge: ["Photography"]
 tags: ["Photography", "video editing", "Lightroom", "DaVinci Resolve"]

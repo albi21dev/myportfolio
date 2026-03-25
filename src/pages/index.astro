@@ -64,7 +64,7 @@ const last_projects = projects.slice(0, 3)
     <div class="text-3xl w-full font-bold mb-5 mt-10">My last projects</div>
   </div>
 
-  {
+  <!--{
     last_projects.map((project) => (
       <>
         <HorizontalCard
@@ -78,7 +78,26 @@ const last_projects = projects.slice(0, 3)
         <div class="divider my-0" />
       </>
     ))
-  }
+  }-->
+
+  {
+  last_projects
+    .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+    .slice(0, 3)
+    .map((project) => (
+      <>
+        <HorizontalCard
+          title={project.data.title}
+          img={project.data.heroImage}
+          desc={project.data.description}
+          url={"/myportfolio/projects/" + createSlug(project.data.title, project.slug)}
+          target="_self"
+          badge={project.data.badge}
+        />
+        <div class="divider my-0" />
+      </>
+    ))
+}
 
 <!-- {
   last_posts.map((post) => (
